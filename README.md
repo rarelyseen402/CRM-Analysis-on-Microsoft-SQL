@@ -1,10 +1,17 @@
-## **CRM-Analysis-on-Microsoft-SQL**
-
+## **CRM-Analysis-on-Microsoft-SQL** 🔎📉
+  
 ### **Table of Contents**
+- [Platform and Software](#platform-and-software)
 - [Project Overview](#project-overview)
 - [Case Study Questions](#case-study-questions)
 - [Skills Demonstrated](#skills-demonstrated)
 - [Deliverables](#deliverables)
+
+### **Platform and Software**
+- Microsoft SQL Server
+- SQL Server Management Studio
+- MySQL
+- Azure Data Studio
 
 ### **Project Overview**
 This project demonstrates a practical use of `SQL` to analyze data in a Customer Relationship Management (CRM) database. My analysis mainly focused on extracting customer information and identifying order shipping status based on business logic. The purpose of this project is to apply real world `CRM` scenarios, and show how `SQL` can support decision making in customer service & sales operations.
