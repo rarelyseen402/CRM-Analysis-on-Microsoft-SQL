@@ -19,6 +19,12 @@ This project demonstrates a practical use of `SQL` to analyze data in a Customer
 - `Conditional Logic`
 - `Business Insights`
 
+### **Deliverables**
+- SQL Query Script
+- Query Results
+- Business Logic Explanation
+- Project Documentation (`README`)
+
 
 
   
